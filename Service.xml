@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Service>
+    <DateOfService>2022-11-14T00:00:00-05:00</DateOfService>
+    <PlaceOfService>S&amp;M Pharmacy
+                                                                    68-50 Main Street
+                                                                    Flushing, NY 11367
+                                                                </PlaceOfService>
+    <TreatmentDesc>HYDROCO/APAP TAB 5-325MG #28
+NDC#00406-0123-01
+</TreatmentDesc>
+    <TreatmentCode />
+    <Charges>41.95</Charges>
+    <ServiceId>0</ServiceId>
+  </Service>
+  <Service>
+    <DateOfService>2022-11-14T00:00:00-05:00</DateOfService>
+    <PlaceOfService>S&amp;M Pharmacy
+                                                                    68-50 Main Street
+                                                                    Flushing, NY 11367
+                                                                </PlaceOfService>
+    <TreatmentDesc>ONDANSETRON TAB 4MG #12
+NDC#45963-0538-30</TreatmentDesc>
+    <TreatmentCode />
+    <Charges>433.07</Charges>
+    <ServiceId>0</ServiceId>
+  </Service>
+</DocumentElement>
